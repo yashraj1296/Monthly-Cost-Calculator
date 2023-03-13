@@ -1,0 +1,9 @@
+Name : Yashraj
+Monthly Income: 82000
+Date: 15/02/2023
+Essential Expenses: 1299
+Other Expenses: 598
+Unnecessary Expenses: 176
+Daily_Expenses: 2073
+Name : Yashraj Nigade
+Monthly Income: 6579
